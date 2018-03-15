@@ -1,0 +1,32 @@
+#logOut{
+    position:fixed;
+    right:20px;
+    top:8px;
+
+}
+
+#logInSignUpForm{
+    position: fixed;
+    top: 100px;
+    left: 100px;
+
+}
+
+.panelHeaderLink{
+    margin-left: 70px;
+}
+
+
+.btn-default{
+    border-radius: 10px;
+}
+
+.navbar-light{
+    background-color: azure;
+}
+
+div.span{
+    position: absolute;
+    left: 50%;
+    color: red;
+}

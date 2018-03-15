@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SimpleShop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SimpleShop-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SimpleShop:war exploded" />
+    </root>
+  </artifact>
+</component>
